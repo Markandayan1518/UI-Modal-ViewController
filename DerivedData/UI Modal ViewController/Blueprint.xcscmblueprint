@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A789482458CDA75E118D679FC1FC13FC1BAA276A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A789482458CDA75E118D679FC1FC13FC1BAA276A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "415CD38B-D527-4940-BA8D-632EED3A62C7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A789482458CDA75E118D679FC1FC13FC1BAA276A" : "Objective%20-%20C%20Demo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UI Modal ViewController",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UI Modal ViewController\/UI Modal ViewController.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Markandayan1518\/Objective---C-Demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A789482458CDA75E118D679FC1FC13FC1BAA276A"
+    }
+  ]
+}
